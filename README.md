@@ -7,9 +7,9 @@
 And here I am exploring and honing my coding skills\
 Have a challenge for a Freelancer ? Let's Work Together!
 
-| Contact Me                                                                                                                                                                       |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![email](assets/email.svg)](mailto:johan.chan@outlook.fr "sent me an email") . [![linkedin](assets/linkedin.svg)](https://www.linkedin.com/in/johan-chan "Let's Go Networking") |
+| Contact Me                                                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [![email](assets/email.svg)](mailto:johan.chan@outlook.fr "sent me an email") [![linkedin](assets/linkedin.svg)](https://www.linkedin.com/in/johan-chan "Let's Go Networking") |
 
 ---
 
