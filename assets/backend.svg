@@ -1,7 +1,7 @@
 <svg version="1.0"
         xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 0 512 512" preserveAspectRatio="xMidYMid meet">
-        <rect x="0" y="0" width="512" height="512" fill="#ffffff50"/>
-        <g transform="translate(0.000000,512.000000) scale(0.100000,-0.100000)" fill="#000000" stroke="none">
+        <rect x="0" y="0" width="512" height="512" fill="#ffffffa0"/>
+        <g transform="translate(32,480) scale(0.085000,-0.085000)" fill="#000000" stroke="none">
                 <path d="M2239 5105 c-619 -88 -1128 -511 -1323 -1096 -48 -144 -76 -292 -83
 -435 l-6 -121 -69 -16 c-291 -70 -560 -302 -679 -587 -46 -108 -69 -214 -76
 -340 -9 -182 26 -341 114 -518 67 -135 124 -172 178 -117 33 32 31 61 -7 121
