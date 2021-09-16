@@ -23,6 +23,8 @@ Have a challenge for a Freelancer ? Let's Work Together
 
 ### Some Numbers
 
-[![CSSBattle](assets/cssbattle.dev.svg)](https://cssbattle.dev/player/jconan)![CSSBattle](https://img.shields.io/badge/dynamic/json?cacheSeconds=3600&color=%23FFDF00&label=&prefix=rank%20&query=rank&suffix=th&url=https%3A%2F%2Fcssbattle.dev%2Fapi%2FgetRank%3FuserId%3D9Odzg51joBRjqyk0dLSW7aUVbqr2)
+[![CSSBattle](assets/cssbattle.dev.svg)](https://cssbattle.dev/player/jconan)![Ranking...](https://img.shields.io/badge/dynamic/json?cacheSeconds=3600&color=%23FFDF00&label=&prefix=rank%20&query=rank&suffix=th&url=https%3A%2F%2Fcssbattle.dev%2Fapi%2FgetRank%3FuserId%3D9Odzg51joBRjqyk0dLSW7aUVbqr2)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JConan&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JConan&layout=compact&theme=blue-green)
+
+<!-- ![JConan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JConan) -->
