@@ -34,3 +34,7 @@ Have a challenge for a Freelancer ? Let's Work Together
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JConan&layout=compact&theme=blue-green)
 
 ![JConan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JConan)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
