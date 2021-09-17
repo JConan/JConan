@@ -8,7 +8,15 @@ Have a challenge for a Freelancer ? Let's Work Together
 
 ---
 
-### I have learned a lot thanks to :smile: [Le Reacteur](https://www.lereacteur.io/) and you can find below all the cool thing. Then I found a bunch of shiny stuff that I will play with it soon
+### I have learned a lot thanks to :smile: [Le Reacteur](https://www.lereacteur.io/) and you can find below all the cool thing. Then I found a bunch of shiny stuff that I will play with it soon.
+
+---
+
+#### Here are some project I have work on:
+
+[ReactNative - AirBnb](https://github.com/JConan/react-native_airbnb)
+
+---
 
 |                         Category                          | Cool Stuff                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | :-------------------------------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
