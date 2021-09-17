@@ -36,5 +36,8 @@ Have a challenge for a Freelancer ? Let's Work Together
 ![JConan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JConan)
 
 <!--START_SECTION:waka-->
+```text
+Markdown   2 mins          █████████████████████████   100.00 % 
+```
 <!--END_SECTION:waka-->
 
