@@ -1,8 +1,6 @@
 <!-- ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=JConan.JConan) -->
 
-# Welcome to my coding lair
-
-## I am a software engineer and recently lost in the coding matrix
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Goudy+Bookletter+1911&size=52&width=800&height=100&lines=Welcome+to+my+coding+lair;I+am+a+Software+Engineer;Lost+in+the+coding+matrix)](https://git.io/typing-svg)
 
 And here I am exploring and honing my coding skills\
 Have a challenge for a Freelancer ? Let's Work Together
@@ -27,4 +25,4 @@ Have a challenge for a Freelancer ? Let's Work Together
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JConan&layout=compact&theme=blue-green)
 
-<!-- ![JConan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JConan) -->
+![JConan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JConan)
