@@ -37,7 +37,11 @@ Have a challenge for a Freelancer ? Let's Work Together
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   2 mins          █████████████████████████   100.00 % 
+TypeScript   1 hr 38 mins    ████████████░░░░░░░░░░░░░   47.54 % 
+Markdown     59 mins         ███████▒░░░░░░░░░░░░░░░░░   28.86 % 
+JSON         40 mins         █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
+CSS          5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+SCSS         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 ```
 <!--END_SECTION:waka-->
 
