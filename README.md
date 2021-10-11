@@ -35,7 +35,7 @@ Have a challenge for a Freelancer ? Let's Work Together
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JConan&layout=compact&theme=blue-green)
 
-#### [Wakatime](https://wakatime.com/@JConan)
+#### [Wakatime Last 7 days](https://wakatime.com/@JConan)
 <!--START_SECTION:waka-->
 ```text
 TypeScript   29 hrs 1 min    ████████████████████░░░░░   79.37 % 
