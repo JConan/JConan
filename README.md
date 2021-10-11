@@ -16,7 +16,7 @@ Have a challenge for a Freelancer ? Let's Work Together
 
 [ReactNative - AirBnb](https://github.com/JConan/react-native_airbnb)
 
-[React - Memory Game](https://github.com/JConan/memory-game-challenge)
+[React - Memory Game](https://github.com/JConan/memory-game-challenge) [![wakatime](https://wakatime.com/badge/github/JConan/memory-game-challenge.svg)](https://wakatime.com/badge/github/JConan/memory-game-challenge)
 
 ---
 
