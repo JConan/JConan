@@ -38,9 +38,9 @@ Have a challenge for a Freelancer ? Let's Work Together
 #### [Wakatime Last 7 days](https://wakatime.com/@JConan)
 <!--START_SECTION:waka-->
 ```text
-GDScript     1 hr 43 mins    ███████████████████████░░   91.40 % 
-Other        7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
-Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+GDScript     41 mins         ████████████████████▒░░░░   80.86 % 
+Other        7 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+Git Config   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
 ```
 <!--END_SECTION:waka-->
 
