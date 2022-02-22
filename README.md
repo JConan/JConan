@@ -38,9 +38,9 @@ Have a challenge for a Freelancer ? Let's Work Together
 #### [Wakatime Last 7 days](https://wakatime.com/@JConan)
 <!--START_SECTION:waka-->
 ```text
-SCSS         1 hr 57 mins    ██████████████████▒░░░░░░   73.82 % 
-TypeScript   23 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-HTML         18 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+SCSS         51 mins         ██████████████████████░░░   87.60 % 
+TypeScript   5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+HTML         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
 ```
 <!--END_SECTION:waka-->
 
