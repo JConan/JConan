@@ -39,8 +39,7 @@ Have a challenge for a Freelancer ? Let's Work Together
 <!--START_SECTION:waka-->
 
 ```text
-JSON         34 mins         ████████████████████████▓   98.59 %
-JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
