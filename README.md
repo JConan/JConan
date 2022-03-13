@@ -39,7 +39,9 @@ Have a challenge for a Freelancer ? Let's Work Together
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+TypeScript   2 mins          ██████████████████████▒░░   88.71 %
+SCSS         0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 %
+CSS          0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
 ```
 
 <!--END_SECTION:waka-->
