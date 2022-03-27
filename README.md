@@ -39,12 +39,12 @@ Have a challenge for a Freelancer ? Let's Work Together
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   11 hrs 2 mins   ███████████████████▓░░░░░   78.89 %
-SCSS         2 hrs 40 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.15 %
-Bash         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
-JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+TypeScript   8 hrs 25 mins   ██████████████████████░░░   87.87 %
+SCSS         58 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.19 %
+Bash         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
